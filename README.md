@@ -1,2 +1,2 @@
 # British-Informatics-Olympiad-Answers
-My solution to British Informatics Olympiad past papers written in Python3.
+My solutions to British Informatics Olympiad past papers written in Python3.
